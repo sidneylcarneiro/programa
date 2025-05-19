@@ -2,7 +2,8 @@
 ````markdown
 # Sistema de Empréstimo de Equipamentos
 
-Um sistema simples e funcional para gerenciamento de empréstimos de equipamentos, desenvolvido em Python com uma interface gráfica moderna usando **CustomTkinter**.
+Um sistema simples e funcional para gerenciamento de empréstimos de equipamentos,
+desenvolvido em Python com uma interface gráfica moderna usando **CustomTkinter**.
 
 ## ✨ Funcionalidades
 
@@ -70,11 +71,14 @@ python app.py
 
 ## 🗃️ Banco de Dados
 
-Os dados são armazenados automaticamente no arquivo `emprestimos.db`, criado na primeira execução do sistema.
+Os dados são armazenados automaticamente no arquivo `emprestimos.db`, 
+criado na primeira execução do sistema.
 
 ## ⚙️ Personalização
 
-A lista de equipamentos disponíveis pode ser modificada diretamente no parâmetro `equipamentos` dentro do construtor da classe `App`, localizado no arquivo `app_class.py`.
+A lista de equipamentos disponíveis pode ser modificada diretamente 
+no parâmetro `equipamentos` dentro do construtor da classe `App`, 
+localizado no arquivo `app_class.py`.
 
 ## 📄 Licença
 
